@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-env": "^2.4.1",
     "jest": "^21.0.1"
   }
 }
